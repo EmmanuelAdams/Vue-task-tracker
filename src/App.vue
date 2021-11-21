@@ -27,6 +27,7 @@ export default {
       showAddTask: false,
     };
   },
+
   methods: {
     toggleAddTask() {
       this.showAddTask = !this.showAddTask;
